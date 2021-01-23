@@ -1,1 +1,1 @@
-Worksnake releases for hazel server
+Github releases repo for [worksnake](https://github.com/Worksnake/worksnake)
